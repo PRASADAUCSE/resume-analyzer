@@ -321,7 +321,7 @@ D. Clear Improvement Actions (bullet points)
 Ensure the final output is clean, well-structured, and easy to parse programmatically.
 `
 
-        const url = "http://localhost:5000/generate";
+        const url = "https://resume-analyzer-wkww.onrender.com/generate";
 
 const options = {
   method: "POST",
